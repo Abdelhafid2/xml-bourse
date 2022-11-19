@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:/C:/Users/coder/OneDrive/Bureau/wisd/echangeDeDonnees/bource.xsd">
+    <societe type="Assurance">
+        <codeSociete>1222</codeSociete>
+        <nomSociete>nom1</nomSociete>
+        <dateIntroduction>2002-12-12</dateIntroduction>
+        <cotations>
+            <cotation num="11" dateCotation="2000-06-09" valeurAction="12"/>
+            <cotation num="11" dateCotation="2000-06-09" valeurAction="12"/>
+            <cotation num="11" dateCotation="2000-06-09" valeurAction="12"/>
+            <cotation num="11" dateCotation="2000-06-09" valeurAction="12"/>
+        </cotations>
+    </societe>
+    
+    <societe type="Bank">
+        <codeSociete>22</codeSociete>
+        <nomSociete>bank1</nomSociete>
+        <dateIntroduction>2002-12-12</dateIntroduction>
+        <cotations>
+            <cotation num="11" dateCotation="2000-06-09" valeurAction="12"/>
+            <cotation num="11" dateCotation="2000-06-09" valeurAction="12"/>
+            <cotation num="11" dateCotation="2000-06-09" valeurAction="12"/>
+            <cotation num="11" dateCotation="2000-06-09" valeurAction="1"/>
+        </cotations>
+    </societe>
+</bource>
